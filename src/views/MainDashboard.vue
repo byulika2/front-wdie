@@ -1,14 +1,9 @@
 <template>
-<div>
-  Main Dashboard Page
-</div>
+  <div>Main Dashboard Page</div>
 </template>
 
 <script>
-export default {
-}
+export default {};
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
